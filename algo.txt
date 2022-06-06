@@ -1,2 +1,4 @@
 1. Decide which business to order from
 2. Decide which type of pizza to order
+3. If the pizza gets delivered with the wrong ingredients - call the store back immediately.
+4. If the pizza gets delivered with the right ingredients - give the driver a big tip.
